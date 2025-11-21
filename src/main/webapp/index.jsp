@@ -123,7 +123,7 @@
         <a href="#">Movies</a>
          <a href="#">Languages</a>
         
-<a href="#">Kids</a>
+<a href="#">sci-fi</a>
     </div>
 </div>
 
